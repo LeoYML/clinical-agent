@@ -1,0 +1,29 @@
+I have designed a clinical trial and hope you can help me predict whether this trial can pass Phase I.
+The following is my clinical trial:
+
+disease: ['tumors']
+drugs: ['dasatinib + ketoconazole']
+phase: 1
+criteria: 
+        Inclusion Criteria:
+
+          -  ECOG status 0-2
+
+          -  Advanced or metastatic disease, unresponsive to standard treatment (or no standard
+             treatment exists)
+
+          -  Biopsy pretreatment
+
+          -  Adequate bone marrow, liver and kidney function
+
+        Exclusion Criteria:
+
+          -  Serious cardiovascular disease
+
+          -  Bleeding disorders
+
+          -  Gastrointestinal (GI) tract disease
+
+          -  Platelet inhibitors
+
+          -  H2 blockers, proton pump inhibitors

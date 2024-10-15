@@ -4,6 +4,8 @@
 
 Clinical Agent is an advanced framework leveraging Large Language Models (LLMs) to enhance the efficiency and effectiveness of clinical trials.
 
+Congratulations! This paper has been accepted at the 2024 ACM-BCB Conference!
+
 ## Overview
 
 ![ClinicalAgent Overview](ctagent.png)

@@ -63,10 +63,11 @@ pip install torch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit==11
 
 Before running ClinicalAgent, follow the README instructions in the `drugbank`, `enrollment`, `hetionet`, and `risk_model` directories to generate the necessary data for the tools:
 
-- [drugbank](https://github.com/LeoYML/ClinicalAgent/tree/main/algo/agents/tools/drugbank)
-- [enrollment](https://github.com/LeoYML/ClinicalAgent/tree/main/algo/agents/tools/enrollment)
-- [hetionet](https://github.com/LeoYML/ClinicalAgent/tree/main/algo/agents/tools/hetionet)
-- [risk_model](https://github.com/LeoYML/ClinicalAgent/tree/main/algo/agents/tools/risk_model)
+- [drugbank](https://github.com/LeoYML/clinical-agent/tree/main/algo/agents/tools/drugbank)
+- [enrollment](https://github.com/LeoYML/clinical-agent/tree/main/algo/agents/tools/enrollment)
+- [hetionet](https://github.com/LeoYML/clinical-agent/tree/main/algo/agents/tools/hetionet)
+- [risk_model](https://github.com/LeoYML/clinical-agent/tree/main/algo/agents/tools/risk_model)
+
 
 ## Running ClinicalAgent
 
@@ -99,4 +100,5 @@ If you use ClinicalAgent in your research, please cite the following paper:
 ---
 
 Feel free to reach out if you have any questions or need further assistance.
+
 

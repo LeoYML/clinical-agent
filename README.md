@@ -87,10 +87,11 @@ subproblem_solve, final_result_str = solve_problem_standard(user_problem)
 If you use ClinicalAgent in your research, please cite the following paper:
 
 ```
-@article{yue2024ct,
-  title={CT-Agent: Clinical Trial Multi-Agent with Large Language Model-based Reasoning},
-  author={Yue, Ling and Fu, Tianfan},
-  journal={arXiv preprint arXiv:2404.14777},
+@inproceedings{yue2024clinicalagent,
+  title={Clinicalagent: Clinical trial multi-agent system with large language model-based reasoning},
+  author={Yue, Ling and Xing, Sixue and Chen, Jintai and Fu, Tianfan},
+  booktitle={Proceedings of the 15th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics},
+  pages={1--10},
   year={2024}
 }
 ```
@@ -98,3 +99,4 @@ If you use ClinicalAgent in your research, please cite the following paper:
 ---
 
 Feel free to reach out if you have any questions or need further assistance.
+
